@@ -1,0 +1,5 @@
+package pet.park.controller.model;
+
+public class ContributorData {
+
+}

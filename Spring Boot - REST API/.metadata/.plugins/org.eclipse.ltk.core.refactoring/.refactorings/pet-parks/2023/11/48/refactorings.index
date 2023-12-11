@@ -1,0 +1,4 @@
+1700960720047	Rename type 'Contributer'
+1701099584495	Rename method 'insertContributor'
+1701100059859	Delete element
+1701101966513	Extract method 'findOrCreateContributor'

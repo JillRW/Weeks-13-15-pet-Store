@@ -1,0 +1,7 @@
+package pet.park.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface ContributorDao extends JpaRepository<Contributor, Long> {
+
+}

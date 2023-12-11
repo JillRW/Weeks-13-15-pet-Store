@@ -1,0 +1,18 @@
+package pet.park.service;
+
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import pet.park.controller.model.ContributorData;
+
+@Service
+public class ParkService {
+	
+
+  @Transactional(readOnly = false) 
+  public ContributorData saveContributor(ContributorData contributorData) {
+	Long contributorId = contributorData.getContributorId();
+	return null;	
+	}
+
+}

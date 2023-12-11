@@ -1,0 +1,5 @@
+package pet.park.service;
+
+public class ParkService {
+
+}
